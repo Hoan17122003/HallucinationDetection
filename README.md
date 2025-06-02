@@ -1,8 +1,5 @@
 # HallucinationDetection
 - Using method Hallumeasure for hallucination detection in LLM 
-
-# HallucinationDetection
-
 ## Hướng dẫn sử dụng
 
 - Mỗi file `.ipynb` trong thư mục `src` tương ứng với một nhiệm vụ (task) trong bộ dữ liệu RAGtruth. Bạn chỉ cần chạy file notebook phù hợp với nhiệm vụ bạn muốn thực hiện.
